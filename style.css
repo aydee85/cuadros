@@ -1,0 +1,46 @@
+
+
+#uno{
+height: 120px;
+width:100px;
+margin: 5px 10px 5px 10px;
+background-size: cover;
+font-size: :4em;
+color: blue;
+border-style:double;
+border-color: blue;
+display: inline-block;
+}
+#dos{
+  background-color: red;
+height: 150px;
+width:120px;
+margin: 10px 10px 10px 10px;
+background-size: cover;
+border-style:dotted;
+border-color: green;
+display: inline-block;
+
+}
+#tres{
+  background-color: red;
+height: 60px;
+width:30px;
+margin: 10% 5% 20%;
+background-size: cover;
+border-style:dashed;
+border-color:yellow;
+display: inline-block;
+}
+
+#cuatro{
+height: 80px;
+width:60px;
+margin: 25px;
+background-size: cover;
+font-size: :4em;
+color: blue;
+border-style:solid;
+border-color:black;
+display: inline-block;
+}
